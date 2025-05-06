@@ -8,8 +8,11 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ace0s&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ace0s&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="200" alt="stats graph"  />
 </div>
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Ace0s&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ###
 
@@ -72,5 +75,4 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/Ace0s/Ace0s/output/github-snake.svg" />
 </picture>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Ace0s&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
