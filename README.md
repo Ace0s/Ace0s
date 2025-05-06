@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Joel Oskarsson and I'm a Game Developer from Sweden.</h2>
+<h2 align="left">Hello! My name is Joel Oskarsson and I'm a Game Developer from Sweden.</h2>
 
 ###
 
