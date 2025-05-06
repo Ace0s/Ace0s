@@ -2,6 +2,10 @@
 
 ###
 
+<img align="right" height="200" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnY3eDMyMjU2Yzk1Y2tlYXVxbmY1Zml1ZzU2dXg4ZW9oamtpNzNxaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/R28r3rtPY3XKlHBXQH/giphy.gif" />
+
+###
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ace0s&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ace0s&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
