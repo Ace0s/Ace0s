@@ -17,7 +17,7 @@
 ###
 
 # 🌌 About Me:
-🎮 Currently working on:<br><br> - Edge of Kin, a metroidvania game<br> - Black Hollow, a top-down horror game prototype for High Coast Game Village<br><br>📑 Currently studying a 4th year of Application Development/High School Engineer at NTI Sundsvall
+🎮 Currently working on:<br><br> - Edge of Kin, a metroidvania game<br> - Black Hollow, a top-down horror game prototype for High Coast Game Village<br> - A 3D souls-like Game Design Prototype to test an Idea before committing and learn new things fast<br><br>📑 Currently studying a 4th year of Application Development/High School Engineer at NTI Sundsvall
 
 ###
 
