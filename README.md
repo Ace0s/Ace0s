@@ -3,19 +3,6 @@
 
 ###
 
-<img align="right" height="190" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnY3eDMyMjU2Yzk1Y2tlYXVxbmY1Zml1ZzU2dXg4ZW9oamtpNzNxaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/R28r3rtPY3XKlHBXQH/giphy.gif" />
-
-###
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ace0s&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="180" alt="stats graph"  />
-</div>
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Ace0s&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-###
-
 # 🌌 About Me:
 🎮 Currently working on:<br><br> - Edge of Kin, a metroidvania game<br> - Black Hollow, a top-down horror game prototype for High Coast Game Village<br> - A 3D souls-like Game Design Prototype to test an Idea before committing and learn new things fast<br><br>📑 Currently studying a 4th year of Application Development/High School Engineer at NTI Sundsvall
 
