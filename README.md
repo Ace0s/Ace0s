@@ -4,7 +4,7 @@
 ###
 
 # 🌌 About Me:
-🎮 Currently working on:<br><br> - Edge of Kin, a metroidvania game<br> - Several ascending difficulty free projects to learn C++<br> - A 2D metroidvania game for the "Metroidvania Month 28" GameJam<br><br>📑 Currently studying a 4th year of Application Development/High School Engineer at NTI Sundsvall
+🎮 Currently working on:<br><br> - Edge of Kin, a metroidvania game<br> - Several ascending difficulty projects to learn C++<br> - A 2D metroidvania game for the "Metroidvania Month 28" GameJam<br><br>📑 Currently studying a 4th year of Application Development/High School Engineer at NTI Sundsvall
 
 ###
 
