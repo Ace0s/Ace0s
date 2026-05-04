@@ -1,5 +1,5 @@
 <h1>Hello! 👋😁, I'm Joel Oskarsson</h1>
-<p>A driven game developer from Sweden </p>
+<p>An aspiring game developer from Sweden </p>
 
 ###
 
