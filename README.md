@@ -1,10 +1,10 @@
 <h1>Hello! 👋😁, I'm Joel Oskarsson</h1>
-<p>An aspiring game developer from Sweden </p>
+<p>An aspiring game developer from Sweden <br>Educated in web development & software development with a Certiport issued certification "IT Specialist - JavaScript"</p>
 
 ###
 
 # 🌌 About Me:
-🎮 Currently working on:<br><br> - Edge of Kin, a 2D metroidvania game in Unity with Unity's version control<br> - Introductory small C++ projects to learn
+🎮 Currently working on:<br><br> - Edge of Kin, a 2D pixel-art, metroidvania game in Unity (Check separate public repo for a demo)<br> - Introductory small C++ projects to learn/introduce myself to the language
 
 ###
 
@@ -49,19 +49,12 @@
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/Adobe_Acrobat_DC_logo_2020.svg" height="30" alt="figma logo"  />
   <img width="12" />
+  <img src="https://files.catbox.moe/uypug5.png" height="30" alt="photoshop logo"  />
+  <img width="12" />
+  <img src="https://files.catbox.moe/f7hn4o.png" height="30" alt="after effects logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="30" alt="blender logo"  />
   
-</div>
-
-
-###
-
-<h2>🔗 Links:</h2>
-
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=itch.io&logo=itch&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="itch logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
 </div>
 
 ###
