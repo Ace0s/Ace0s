@@ -4,7 +4,7 @@
 ###
 
 # 🌌 About Me:
-🎮 Currently working on:<br><br> - Edge of Kin, a 2D metroidvania game in Unity with Unity's version control<br> - Several ascending difficulty smaller projects to learn C++
+🎮 Currently working on:<br><br> - Edge of Kin, a 2D metroidvania game in Unity with Unity's version control<br> - Introductory small C++ projects to learn
 
 ###
 
@@ -18,6 +18,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://files.catbox.moe/mfs827.png" height="30" alt="java logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
 </div>
