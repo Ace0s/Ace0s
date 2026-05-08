@@ -4,7 +4,7 @@
 ###
 
 # 🌌 About Me:
-🎮 Currently working on:<br><br> - Edge of Kin, a 2D pixel-art, metroidvania game in Unity (Check separate public repo for a demo)<br> - Introductory small C++ projects to learn/introduce myself to the language
+🎮 Currently working on:<br><br> - Edge of Kin, a 2D pixel-art, metroidvania game in Unity (Check separate public repo for the demo version)<br> - Introductory small C++ projects to learn/introduce myself to the language
 
 ###
 
