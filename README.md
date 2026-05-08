@@ -1,5 +1,5 @@
 <h1>Hello! 👋😁, I'm Joel Oskarsson</h1>
-<p>An aspiring game developer from Sweden <br>Educated in web development & software development with a Certiport issued certification "IT Specialist - JavaScript"</p>
+<p>An aspiring game developer from Sweden <br>Education in web development & software development with a Certiport issued certification "IT Specialist - JavaScript"</p>
 
 ###
 
